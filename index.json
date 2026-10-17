@@ -1,0 +1,11 @@
+{
+  "org": "colcon",
+  "repo": "colcon-cmake",
+  "versions": [
+    {
+      "commit": "5d6bc11dae5d6f682b0e5e80e7c01204eb190833",
+      "tag": "0.2.30",
+      "parsed_at": "2026-10-17T23:11:12.435609+00:00"
+    }
+  ]
+}
